@@ -1,10 +1,9 @@
 import numpy as np
 
-list = [2,6,2,8,4,0,1,5,7]
+list = [0,1,2,3,4,5,6,7,8]
 
-def calculate(list):
+list.reshape((3,3))
 
-
-
-
-    return calculations
+# def calculate(list):
+#     calculations = list.reshape((3,3))
+#     return calculations
